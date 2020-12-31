@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\Programlama-Dilleri-Tez-Kontrol-Sistemi\\Programlama-Dilleri-Tez-Kontrol-Sistemi.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\Tez-Kontrol-Sistemi\\Programlama-Dilleri-Tez-Kontrol-Sistemi.csproj",
       "projectName": "Programlama-Dilleri-Tez-Kontrol-Sistemi",
-      "projectPath": "C:\\Users\\Onur\\source\\repos\\Programlama-Dilleri-Tez-Kontrol-Sistemi\\Programlama-Dilleri-Tez-Kontrol-Sistemi.csproj",
+      "projectPath": "C:\\Users\\Onur\\source\\repos\\Tez-Kontrol-Sistemi\\Programlama-Dilleri-Tez-Kontrol-Sistemi.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onur\\source\\repos\\Programlama-Dilleri-Tez-Kontrol-Sistemi\\obj\\",
+      "outputPath": "C:\\Users\\Onur\\source\\repos\\Tez-Kontrol-Sistemi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Onur\\AppData\\Roaming\\NuGet\\NuGet.Config",
